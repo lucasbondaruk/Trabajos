@@ -1,0 +1,7 @@
+C:\Users\gimbo\Source\Repos\EjercicioAdministracion2\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\gimbo\Source\Repos\EjercicioAdministracion2\obj\Debug\EjercicioClinica.Menu.resources
+C:\Users\gimbo\Source\Repos\EjercicioAdministracion2\obj\Debug\EjercicioAdministracion2.PCompras.resources
+C:\Users\gimbo\Source\Repos\EjercicioAdministracion2\obj\Debug\EjercicioAdministracion2.PFormBase.resources
+C:\Users\gimbo\Source\Repos\EjercicioAdministracion2\obj\Debug\EjercicioAdministracion2.Properties.Resources.resources
+C:\Users\gimbo\Source\Repos\EjercicioAdministracion2\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\gimbo\Source\Repos\EjercicioAdministracion2\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
